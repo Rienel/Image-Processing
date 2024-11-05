@@ -1,9 +1,0 @@
-C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
-C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
-C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
-C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.AssemblyReference.cache
-C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
-C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
-C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
-C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
-C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
