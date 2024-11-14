@@ -1,2 +1,2 @@
 # ASUDHFGUIASHNDFJCNASDFC 
-## is the DIP_ACTIVITY (my cat stepped into the keyboard)
+## is the DIP_ACTIVITY (my cat stepped onto the keyboard)
